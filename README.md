@@ -1,4 +1,4 @@
-# C Housing Price Prediction Using PySpark
+# Housing Price Prediction Using PySpark
 
 This project predicts median house values in California districts using the PySpark MLlib pipeline. It involves data preprocessing, feature engineering, and the training of a linear regression model with performance evaluation using `RegressionMetrics`.
 
